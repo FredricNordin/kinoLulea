@@ -11,3 +11,5 @@ Fredric (sammankallande)
 John
 
 Ort (city): Luleå
+
+Figma link: https://www.figma.com/file/Cbk7dVulnr18RoGzWBnoy4/Grupp-A?node-id=0%3A1
