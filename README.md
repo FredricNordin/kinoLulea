@@ -9,3 +9,5 @@ Karim
 Marcus
 Fredric (sammankallande)
 John
+
+Ort (city): Luleå
