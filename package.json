@@ -1,0 +1,23 @@
+{
+  "name": "kinolulea",
+  "version": "1.0.0",
+  "description": "A cinema website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FredricNordin/kinoLulea.git"
+  },
+  "author": "Grupp A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FredricNordin/kinoLulea/issues"
+  },
+  "homepage": "https://github.com/FredricNordin/kinoLulea#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "sass": "^1.45.0"
+  }
+}

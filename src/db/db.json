@@ -1,0 +1,18 @@
+{
+  "movies": [
+    {
+      "playing": false,
+      "id": 1,
+      "title": "Hacking demystified",
+      "description": "Go out into space and back without leaving your computer",
+      "image": "https://placekitten.com/640/480"
+    },
+    {
+      "playing": true,
+      "id": 2,
+      "title": "Hacking demystified",
+      "description": "Go out into space and back without leaving your computer",
+      "image": "https://placekitten.com/640/480"
+    }
+  ]
+}
