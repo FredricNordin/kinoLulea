@@ -10,24 +10,29 @@ main {
 .main-container {
     order: 2;
     width: 575px;
-        a img:hover {
+        img {
+            &:hover {
             opacity: 0.7;
+            }   
         }
 }
 
-    .main-container-content-article-small {
-        margin-bottom: 13px;
-        width: 575px;
-    }
-    .main-container-content-article-large {
-        margin-bottom: 13px;
-        width: 575px;
-    }
-    .main-container-content-movie-comingsoon {
-        margin-bottom: 13px;
-        width: 575px;
-    }
-    .main-container-content-movie-availablenow {
-        margin-bottom: 13px;
-        width: 575px;
-    }
+.main-container-content-article-small {
+    margin-bottom: 13px;
+    width: 575px;
+}
+
+.main-container-content-article-large {
+    margin-bottom: 13px;
+    width: 575px;
+}
+
+.main-container-content-movie-comingsoon {
+    margin-bottom: 13px;
+    width: 575px;
+}
+
+.main-container-content-movie-availablenow {
+    margin-bottom: 13px;
+    width: 575px;
+}

@@ -51,9 +51,9 @@ header {
             font-weight: bold;
             text-decoration: none;
             display: block;
-        }
-        a:hover {
+            &:hover {
             background-color: #f1f1f144
+            }
         }
 }
 

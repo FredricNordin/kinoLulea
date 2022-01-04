@@ -102,7 +102,7 @@ main {
   width: 575px;
 }
 
-.main-container a img:hover {
+.main-container img:hover {
   opacity: 0.7;
 }
 
