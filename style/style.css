@@ -79,22 +79,6 @@ header {
   background-color: rgba(219, 219, 219, 0.5);
 }
 
-.left-container {
-  -webkit-box-ordinal-group: 2;
-      -ms-flex-order: 1;
-          order: 1;
-  width: 150px;
-}
-
-.left-container a img {
-  margin-bottom: 13px;
-  width: 150px;
-}
-
-.left-container a img:hover {
-  opacity: 0.7;
-}
-
 main {
   width: 1100px;
   height: auto;
