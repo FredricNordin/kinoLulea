@@ -7,7 +7,7 @@ Lina
 Ammar
 Karim
 Marcus
-Fredric (sammankallande)
+Fredric
 John
 
 Ort (city): Luleå
