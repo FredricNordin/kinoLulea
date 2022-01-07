@@ -183,6 +183,16 @@ footer p {
   margin-bottom: 30px;
 }
 
+.bingo {
+  margin: 0;
+  list-style-type: none;
+}
+.bingo a {
+  text-decoration: none;
+  color: white;
+  display: inline-table;
+}
+
 body {
   margin: 0;
   background-color: #261a4e;
