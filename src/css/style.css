@@ -161,7 +161,7 @@ main {
   height: 33px;
 }
 
-.right-container-content-calender {
+.right-container-content-calendar {
   margin-bottom: 13px;
   width: 315px;
   height: 540px;
@@ -196,7 +196,7 @@ footer p {
 body {
   margin: 0;
   background-color: #261a4e;
-  background-image: url("/src/img/FW-edges-half-purple.jpg");
+  background-image: url("../img/FW-edges-half-purple.jpg");
   background-size: cover;
   font-family: "Source Sans Pro", sans-serif;
 }
